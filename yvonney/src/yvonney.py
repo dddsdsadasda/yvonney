@@ -60,7 +60,7 @@ class Valentine:
         C = Color()
 
         return '{}{}{}\n'\
-            'I love you very much, {}{}{}. Happy valentine\'s day!'.format(
+            'To my Yvonney. Happy 4th bb'.format(
                 C.RED, self.romanticize(), C.NORMAL,
                 C.BOLD_YELLOW, self.loved_one, C.NORMAL
             )
